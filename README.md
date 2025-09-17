@@ -105,8 +105,6 @@ Prior to this work, the Study Abroad office lacked:
 <img width="915" height="298" alt="Screenshot 2025-09-17 at 12 12 23 AM" src="https://github.com/user-attachments/assets/331a65d3-df98-4b93-8b01-3db4f63e297a" />
 
 
-
-> Replace the placeholders below with your image paths.
 <!--
 ![Fall & Spring Participation](./images/fall-spring.png)
 ![Summer & Faculty-Led](./images/summer-faculty.png)
