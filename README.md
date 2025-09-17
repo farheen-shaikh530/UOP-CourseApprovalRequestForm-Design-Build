@@ -125,6 +125,20 @@ Prior to this work, the Study Abroad office lacked:
 
 ## Run / View
 - Dashboards are deployed internally via **Tableau** and embedded in a React app.
-- If you have access to the Tableau project, add your server credentials and set the embed URL in the React `.env`:
   ```bash
-  REACT_APP_TABLEAU_URL=https://<tableau-server>/<view-path>
+  npm install
+  npm run dev # or npm start
+ 
+## Interactive Dashboards (Published)
+
+You can explore the dashboards live on **Tableau Public** here:
+
+1. **Overview by Major and UOP Schools**  
+   👉 [View Dashboard](https://public.tableau.com/app/profile/farheen.shaikh8731/viz/UOPSchoolandMajorParticipationsAnalysis/UOPSchoolsParticipation?publish=yes)
+
+2. **Study Abroad Student Participation Analysis**  
+   👉 [View Dashboard](https://public.tableau.com/app/profile/farheen.shaikh8731/viz/StudentParticipationAnalysis/Studentsparticipation?publish=yes)
+
+3. **Diversity & Inclusion Analysis**  
+   👉 [View Dashboard](https://public.tableau.com/app/profile/farheen.shaikh8731/viz/DiversityInclusionAnalysis/DiversityInclusion?publish=yes)
+   
